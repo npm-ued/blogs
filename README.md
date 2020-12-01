@@ -1,5 +1,4 @@
 # 团队规范
-![新浪图床](https://tva1.sinaimg.cn/large/007S8ZIlly1ghludjiguqg30qh0eon5c.gif)
 * [前端团队规范总结](https://lq782655835.github.io/blogs/team-standard/0.standard-ai-summary.html)
 * [AI前端CSS规范](https://lq782655835.github.io/blogs/team-standard/1.standard-ai-css.html)
 * [AI前端Git规范](https://lq782655835.github.io/blogs/team-standard/1.standard-ai-git.html)
